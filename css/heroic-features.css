@@ -1,0 +1,96 @@
+/*!
+ * Start Bootstrap - Heroic Features (https://startbootstrap.com/template/heroic-features)
+ * Copyright 2013-2020 Start Bootstrap
+ * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-heroic-features/blob/master/LICENSE)
+ */
+body {
+  padding-top: 56px;
+}
+
+a {
+	color: black;
+	text-decoration: none;
+}
+
+a:link {text-decoration: none}
+
+header {
+	background-img: url("../images/webcover.jpg");
+	
+}
+
+h1 {
+	font-family: active, sans-serif;
+font-style: normal;
+font-weight: 400;
+text-align: center;
+	font-size: 70px;
+}
+
+h2 {
+		font-family: active, sans-serif;
+font-style: normal;
+font-weight: 400;
+text-align: center;
+}
+
+.intro {
+	padding-right: 10%;
+	padding-left: 10%;
+}
+
+.form-group {
+	background:#290046;
+	color: white;
+	padding: .5em;
+	margin: 0;
+}
+.submit {
+	padding-top: .5em;
+}
+
+h5 {
+	font-family: active, sans-serif;
+	font-size: 25px;
+}
+
+.container-big {
+	width: 75%;
+	margin: auto;
+}
+
+.small {
+	width: 80%;
+}
+
+a:hover {
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+transition: box-shadow 1s
+}
+.card-body {
+	background: white;
+}
+
+nav {
+	background: black;
+}
+
+footer {
+	background-color: black;
+}
+
+small {
+	text-align: center;
+}
+
+.download {
+	color:darkviolet;
+}
+
+.more {
+	font-size: 13px
+}
+
+.tiny {
+	width: 25px
+}
